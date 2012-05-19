@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="800" android:drawable="@drawable/zz_stat_sys_signal_3_sprint" />
+    <item android:duration="1200" android:drawable="@drawable/zz_stat_sys_r_signal_3_sprint" />
+</animation-list>
