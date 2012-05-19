@@ -4282,6 +4282,22 @@
     <public type="anim" name="wallpaper_open_enter" id="0x010a0048" />
     <public type="anim" name="wallpaper_open_exit" id="0x010a0049" />
     <public type="anim" name="zzzzz_tw_cursor_controller_menu_show" id="0x010a004a" />
+    <public type="anim" name="accelerate_cubic" id="0x010a004b" />
+    <public type="anim" name="accelerate_decelerate" id="0x010a004c" />
+    <public type="anim" name="accelerate_quad" id="0x010a004d" />
+    <public type="anim" name="accelerate_quint" id="0x010a004e" />
+    <public type="anim" name="anticipate" id="0x010a004f" />
+    <public type="anim" name="anticipate_overshoot" id="0x010a0050" />
+    <public type="anim" name="bounce" id="0x010a0051" />
+    <public type="anim" name="cycle" id="0x010a0052" />
+    <public type="anim" name="decelerate_cubic" id="0x010a0053" />
+    <public type="anim" name="decelerate_quad" id="0x010a0054" />
+    <public type="anim" name="decelerate_quint" id="0x010a0055" />
+    <public type="anim" name="linear" id="0x010a0056" />
+    <public type="anim" name="lock_screen_album_fade_in" id="0x010a0057" />
+    <public type="anim" name="lock_screen_album_fade_out" id="0x010a0058" />
+    <public type="anim" name="lock_screen_controlview_fade_out" id="0x010a0059" />
+    <public type="anim" name="overshoot" id="0x010a005a" />
     <public type="xml" name="apns" id="0x010b0000" />
     <public type="xml" name="autotext" id="0x010b0001" />
     <public type="xml" name="cdma_carriers" id="0x010b0002" />
@@ -4355,6 +4371,8 @@
     <public type="integer" name="config_datause_threshold_bytes" id="0x010e0012" />
     <public type="integer" name="config_datause_throttle_kbitsps" id="0x010e0013" />
     <public type="integer" name="config_datause_notification_type" id="0x010e0014" />
+    <public type="integer" name="config_activityShortDur" id="0x010e0015" />
+    <public type="integer" name="config_activityDefaultDur" id="0x010e0016" />
     <public type="plurals" name="num_seconds_ago" id="0x010f0000" />
     <public type="plurals" name="num_minutes_ago" id="0x010f0001" />
     <public type="plurals" name="num_hours_ago" id="0x010f0002" />
